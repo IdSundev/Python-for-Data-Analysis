@@ -31,7 +31,7 @@ deactivate
 ```
 
 ## Contact
-https://www.cefsyarif.com
-chefdeveloper29@gmail.com
-twitter: [@IdSundev](https://twitter.com/IdSundev)
+https://www.cefsyarif.com <br/>
+chefdeveloper29@gmail.com <br/>
+twitter: [@IdSundev](https://twitter.com/IdSundev) <br/>
 [Direct Message](https://wa.me/+6287730217935)
