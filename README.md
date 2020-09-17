@@ -1,6 +1,6 @@
 # Python for Data Analysis, 2nd Edition
 
-Repositori ini berisi source code latihan dari ebook Python for Data Analysis, 2nd Edition by Wes McKinney.
+Repositori ini berisi latihan dari ebook Python for Data Analysis, 2nd Edition by Wes McKinney.
 https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython-ebook/dp/B075X4LT6K
 
 ## Basic Command:
